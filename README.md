@@ -92,7 +92,7 @@ nltk.download('stopwords')
 ## **Challenges Faced & Solutions**  
 
 ### **1. Hinglish Language Processing Issues**  
-- **Challenge:** Hinglish lacks a standard grammar, making LLM responses inconsistent.  
+- **Challenge:** Hinglish lacks standard grammar, making LLM responses inconsistent.  
 - **Solution:** Used **prompt tuning** and **predefined Hinglish translation logic** to improve responses.  
 
 ### **2. Speech-to-Text (STT) Errors**  
@@ -118,7 +118,6 @@ nltk.download('stopwords')
 | **Speech Recognition (STT)**       | 🔶 Partially Implemented | Works but struggles with Hinglish pronunciation |
 | **Text-to-Speech (TTS)**           | ✅ Completed | `pyttsx3` used for Hinglish speech output |
 | **State Tracking**                 | ✅ Completed | Conversation state management implemented |
-| **API Integration (Calendar, CRM)** | ❌ Not Implemented | Currently using **simulated** responses |
 | **Refined Hinglish Prompts**       | 🔶 Partially Implemented | Needs more **natural** phrasing improvements |
 | **Error Handling**                 | ✅ Completed | Basic error handling for missing inputs |
 | **Demonstration Video**            | ✅ Completed | Loom video recorded |
@@ -140,7 +139,7 @@ nltk.download('stopwords')
    - **More natural Hinglish speech synthesis** using `gTTS` instead of `pyttsx3`.  
 
 4. **More Personalized Conversations**  
-   - Implement **memory** so the agent can remember past interactions with users.  
+   - Implement **memory** so the agent can remember past user interactions.  
 
 ---
 
@@ -149,9 +148,7 @@ nltk.download('stopwords')
 This project successfully implemented a **basic Hinglish AI cold-calling agent** capable of handling three key business scenarios. While **core functionalities are complete**, additional **fine-tuning** and **API integrations** are required for a fully production-ready system.  
 
 ✔️ **Successfully demonstrated agent capabilities** for Hinglish cold calls.  
-🔶 **Hinglish NLP and STT handling need improvements.**  
-❌ **No real API integrations (Calendar, CRM).**  
+🔶 **Hinglish NLP and STT handling need improvements.**  ❌ **No real API integrations (Calendar, CRM).**  
 
-This README provides a **clear breakdown of completed, partially implemented, and unfinished features**, along with challenges faced and future improvements. 🚀
 
 
