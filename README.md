@@ -1,7 +1,5 @@
 # AI-Agent-for-Cold-Calling-Hinglish-
-Here’s an improved version of your README with additional details, including challenges faced during development:
 
----
 
 # **Combined README for AI Agents**
 
