@@ -26,10 +26,7 @@ pip install transformers datasets langchain-community pydub SpeechRecognition py
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
-```  
-✔️ Initialized project folder structure.  
-
----
+```
 
 ### **2. Data & Model Selection (✅ Completed - 1 hour)**  
 
