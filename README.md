@@ -1,7 +1,4 @@
 # AI-Agent-for-Cold-Calling-Hinglish-
-
-# **Hinglish AI Cold Calling Agent**  
-
 ## **Project Overview**  
 This project aims to design and implement an **AI agent capable of conducting personalized and human-like cold calls in Hinglish** for three business use cases:  
 
