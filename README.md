@@ -145,7 +145,7 @@ nltk.download('stopwords')
 This project successfully implemented a **basic Hinglish AI cold-calling agent** capable of handling three key business scenarios. While **core functionalities are complete**, additional **fine-tuning** and **API integrations** are required for a fully production-ready system.  
 
 ✔️ **Successfully demonstrated agent capabilities** for Hinglish cold calls.  
-🔶 **Hinglish NLP and STT handling need improvements.**  ❌ **No real API integrations (Calendar, CRM).**  
+🔶 **Hinglish NLP and STT handling need improvements.**  
 
 
 
