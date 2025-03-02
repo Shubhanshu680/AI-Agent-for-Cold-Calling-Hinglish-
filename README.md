@@ -12,7 +12,7 @@ The agent is designed to **understand context, personalize interactions, and exh
 
 ### **Overall Structure & Implementation Progress**  
 
-### **1. Setup (✅ Completed - 30 minutes)**  
+### **1. Setup**  
 ✔️ Set up a **Python environment** with required libraries:  
 ```bash
 sudo apt-get install espeak  
@@ -25,7 +25,7 @@ nltk.download('punkt')
 nltk.download('stopwords')
 ```
 
-### **2. Data & Model Selection (✅ Completed - 1 hour)**  
+### **2. Data & Model Selection **  
 
 ✔️ **Curated example dialogues** for each use case (ERP demo, job interviews, payment follow-ups).  
 ✔️ Created a **knowledge base** with:
@@ -38,7 +38,7 @@ nltk.download('stopwords')
 
 ---
 
-### **3. Agent Design & Implementation (✅ Partially Completed - 3 hours)**  
+### **3. Agent Design & Implementation **  
 
 #### **Key Implementations:**  
 ✔️ **LLM Integration:** Used `google/flan-t5-base` for natural Hinglish conversations.  
@@ -52,7 +52,7 @@ nltk.download('stopwords')
 
 ---
 
-### **4. Evaluation & Refinement (✅ Partially Completed - 2 hours)**  
+### **4. Evaluation & Refinement **  
 
 ✔️ **Simulated conversations** to evaluate agent performance.  
 ✔️ Defined evaluation metrics:  
@@ -66,7 +66,7 @@ nltk.download('stopwords')
 
 ---
 
-### **5. Demonstration & Explanation (✅ Completed - 1.5 hours)**  
+### **5. Demonstration & Explanation **  
 
 ✔️ Recorded **Loom video demonstration** covering:  
    - Agent's **design choices**  
@@ -76,7 +76,7 @@ nltk.download('stopwords')
 
 ---
 
-### **6. Final Tasks (✅ Completed - 30 minutes)**  
+### **6. Final Tasks**  
 
 ✔️ **Implemented basic error handling** for:  
    - Missing user responses  
